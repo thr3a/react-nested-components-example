@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minimum-react-template/static/css/main.8a685450.css",
+    "main.js": "/minimum-react-template/static/js/main.08806dba.js",
+    "index.html": "/minimum-react-template/index.html",
+    "main.8a685450.css.map": "/minimum-react-template/static/css/main.8a685450.css.map",
+    "main.08806dba.js.map": "/minimum-react-template/static/js/main.08806dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.08806dba.js"
+  ]
+}
